@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=jiseong3030's%20Github&fontSize=60"  style ="width : 1000px; height:400px"/>
+</div>
 
-<!--
-**jiseong3030/jiseong3030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile
+👩 임지성 <br>
+👶 1999.09.04 <br>
+📞 010-9572-3030 <br>
 
-Here are some ideas to get you started:
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiseong3030@gmail.com)](mailto:jiseong3030@gmail.com) </span></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<br>

@@ -3,12 +3,13 @@
 </div>
 
 ## Profile
-👩 임지성 <br>
+🧑 임지성 <br>
 👶 1999.09.04 <br>
 📞 010-9572-3030 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiseong3030@gmail.com)](mailto:jiseong3030@gmail.com) </span></a>
-
+📫 E-mail <br>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiseong3030@gmail.com)](mailto:jiseong3030@gmail.com) jiseong3030@gmail.com - 💌 General E-mail
+<br>
 
 
 <br>
@@ -30,7 +31,11 @@
 <br>
 
 <h2 align="center"> ✨My Github Stats✨ </h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jiseong3030&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiseong3030&layout=compact"></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiseong3030&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiseong3030&show_icons=true">
+</div>
+<br>
   
 
 
